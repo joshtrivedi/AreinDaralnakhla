@@ -6,4 +6,3 @@
 - 👩🏽‍💻 Currently programming in JavaScript, Python, and C#
 - 📞 LinkedIn: www.linkedin.com/in/arein-daralnakhla
 - 📧 Email: arein.daralnakhla@gmail.com
-- ⚡ Fun fact: I live all over the world ✈️
