@@ -8,6 +8,7 @@
 - 📧 Email: arein.daralnakhla@gmail.com
 
 [![wakatime](https://wakatime.com/badge/user/018d2c48-363d-4faf-9ad5-8f853d388868.svg)](https://wakatime.com/@018d2c48-363d-4faf-9ad5-8f853d388868)
+
 <div>
     <a href="">
     <img align="top" alt="wakatime-stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=arein&theme=dark"/>
