@@ -1,5 +1,8 @@
 # Hi there 👋
 ## About Me
+
+### I'm Arein, a Computer Engineering Graduate, currently pursuing a Masters of Science in Imaging and Light in Extended Reality at three different universities in Finland, France, and Japan. Check out my program: <a href="https://www.example.com](https://imlex.org">IMLEX</a>
+
 - 🔭 I’m currently studying Computational Imaging in Extended Reality at UJM (Saint Etienne) - Erasmus Mundus Master's Student
 - 🧐 My current projects focus on Machine Learning, Deep Learning, and Computer vision
 - 👩🏼‍🎨 Areas of Interest: 3D Holographic Art, 3D modeling, and Game Development
