@@ -7,14 +7,13 @@
 - 📞 LinkedIn: www.linkedin.com/in/arein-daralnakhla
 - 📧 Email: arein.daralnakhla@gmail.com
 
-[![wakatime](https://wakatime.com/badge/user/b0bb76ee-adce-4d72-919a-ee87f31be648.svg)](https://wakatime.com/@b0bb76ee-adce-4d72-919a-ee87f31be648)
-
+[![wakatime](https://wakatime.com/badge/user/018d2c48-363d-4faf-9ad5-8f853d388868.svg)](https://wakatime.com/@018d2c48-363d-4faf-9ad5-8f853d388868)
 <div>
     <a href="">
-    <img align="top" alt="wakatime-stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=AreinDaralnakhla&theme=dark"/>
+    <img align="top" alt="wakatime-stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=areindaralnakhla&theme=dark"/>
     </a>
     <a href="">
-    <img align="top" alt="top-languages-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshtrivedi&hide=jupyter%20notebook,html&langs_count=4&theme=dark&exclude_repo=face_recognition,fresh-meal-shop,FittsDragAndDrop,FittsTilt,Line-Coding,Algorithms-I" />
+    <img align="top" alt="top-languages-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areindaralnakhla&hide=jupyter%20notebook,html&langs_count=4&theme=dark&exclude_repo=face_recognition,fresh-meal-shop,FittsDragAndDrop,FittsTilt,Line-Coding,Algorithms-I" />
     </a>
 </div>
 </br>
