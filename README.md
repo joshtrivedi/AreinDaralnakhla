@@ -10,10 +10,10 @@
 [![wakatime](https://wakatime.com/badge/user/018d2c48-363d-4faf-9ad5-8f853d388868.svg)](https://wakatime.com/@018d2c48-363d-4faf-9ad5-8f853d388868)
 <div>
     <a href="">
-    <img align="top" alt="wakatime-stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=areindaralnakhla&theme=dark"/>
+    <img align="top" alt="wakatime-stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=arein&theme=dark"/>
     </a>
     <a href="">
-    <img align="top" alt="top-languages-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areindaralnakhla&hide=jupyter%20notebook,html&langs_count=4&theme=dark&exclude_repo=face_recognition,fresh-meal-shop,FittsDragAndDrop,FittsTilt,Line-Coding,Algorithms-I" />
+    <img align="top" alt="top-languages-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arein&hide=jupyter%20notebook,html&langs_count=4&theme=dark&exclude_repo=face_recognition,fresh-meal-shop,FittsDragAndDrop,FittsTilt,Line-Coding,Algorithms-I" />
     </a>
 </div>
 </br>
