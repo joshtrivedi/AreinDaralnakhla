@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 ## About Me
 - 🔭 I’m currently studying Computational Imaging in Extended Reality at UJM (Saint Etienne) - Erasmus Mundus Master's Student
 - 🧐 My current projects focus on Machine Learning, Deep Learning, and Computer vision
